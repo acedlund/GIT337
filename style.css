@@ -47,16 +47,11 @@ table {
 	border-spacing: 0;
 }
 
+/* CSS by Andrew Edlund */
 :root{
     --teal: #0FC2C0;
-    --dk-teal: #023535;
-    --white: #fff;
-    --med-gray: #555;
 
-    --filter-shadow-sm: drop-shadow(-3px 3px 7px var(--med-gray));
-    --filter-shadow-lg: drop-shadow(-6px 6px 10px var(--med-gray));
-
-    --fonts: "helvetica", sans-serif;
+    --fonts: Arial, Helvetica, sans-serif;
 }
 
 h1{
