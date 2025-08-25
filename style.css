@@ -57,6 +57,6 @@ table {
 h1{
     font-family: var(--fonts);
     color: var(--teal);
-    font-size: 72pt;
-	margin: 3pt;
+    font-size: 5em;
+	margin: 5pt;
 }
